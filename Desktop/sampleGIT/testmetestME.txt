@@ -1,0 +1,12 @@
+Lydia Agahan Balogun
+
+COMMANDS 
+
+git config --global user.name "Joshtest1570"
+git config --global user.email "joshtest.olutayo@gmail.com"
+
+
+got to the deirectory of your project 
+
+git init 
+
